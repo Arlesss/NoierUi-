@@ -1,3 +1,14 @@
+
+<p align="center">
+  <img src="NoierUi.png" alt="NoierUi Banner" />
+</p>
+
+<h1 align="center">NoierUi</h1>
+
+<p align="center">
+  Modern, clean and animated UI for Minecraft Bedrock Edition
+</p>
+
 # 🌌 NoierUi
 
 Modern, clean and animated UI project for **Minecraft Bedrock Edition**.
