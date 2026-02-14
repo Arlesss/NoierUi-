@@ -1,34 +1,41 @@
-# NoierUi-
-NoierUI é um resource pack focado em simplicidade, desempenho e organização, desenvolvido para dispositivos móveis.
-O projeto é inspirado na NekoUI e na BetmcUI, porém com uma proposta mais leve, priorizando estabilidade e performance.
-Por esse motivo, a NoierUI utiliza wallpaper estático.
+# 🌌 NoierUi
 
-• Interface
-> Tela inicial clean e organizada
-> Sidebar: Correio, Conquistas e Realms
-> Hotbar: Loja, Skins, Opções e botão Play destacado
-> Wallpaper estático Full HD (Minecraft ou anime)
-> DarkMode real otimizado para telas AMOLED/OLED
+Bring a modern, clean and optimized interface to Minecraft Bedrock.
 
-• Em jogo
-> Crafting e saque rápidos
-> Mover e dropar itens rapidamente
-> Chat otimizado com navegação e conclusão de comandos
-> Função F1 incluída
+---
 
-• Estilo do mundo
-> Sol e lua substituídos por buracos negros
-> Não interfere na jogabilidade ou performance
+![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock-orange)
+![Version](https://img.shields.io/badge/NoierUi-v26.0.4-blue)
+![Engine](https://img.shields.io/badge/Engine-Noier_Engine-black)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Downloads](https://img.shields.io/badge/Downloads-12k-blue)
 
-• Observações
-> Desenvolvido exclusivamente para celulares
-> Pode apresentar bugs visuais em telas maiores
-> Incompatível com outros packs que alterem UI/GUI
-> Prioriza desempenho em dispositivos mais fracos
+---
 
-• Desenvolvimento
-> Feito 100% no celular
-> IA utilizada apenas como ferramenta de apoio
-> Ajustes manuais realizados sempre que necessário
-> [Baixe aqui!](https://www.mediafire.com/file/8zimehnmbpn95zb/NoierUi.mcpack/file![1000365477](https://github.com/user-attachments/assets/b45ca150-5832-4301-8f2c-a07728d47d6e)
-)
+## ✨ Features
+
+- Animated Wallpapers  
+- Dual Animation Engine  
+- Optimized UI Structure  
+- Clean AAA Layout  
+- Custom Audio Support  
+
+---
+
+## 📦 Projects
+
+- NoierUi - Static  
+- NoierUi - Animated  
+- NoierUi - BlackHole  
+
+---
+
+## 🌍 Community
+
+Discord: https://discord.gg/xxxxx  
+TikTok: @noier  
+GitHub: Noier Projects  
+
+---
+
+> Made with patience and obsession by Noier.
