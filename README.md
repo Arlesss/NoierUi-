@@ -9,8 +9,6 @@
   Modern, clean and animated UI for Minecraft Bedrock Edition
 </p>
 
-Modern, clean and animated UI project for **Minecraft Bedrock Edition**.
-
 ---
 
 ## 🔹 Project Status
