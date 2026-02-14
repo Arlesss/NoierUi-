@@ -59,9 +59,3 @@ This project proves that with patience, effort and consistency, you can build an
 - Expandable visual presets  
 
 ---
-
-## 🚀 Philosophy
-
-I am proof that with patience and effort, you can achieve anything.
-
-— Noier
