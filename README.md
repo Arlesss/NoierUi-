@@ -7,7 +7,6 @@
 <p align="center">
 </p>
 
----
 
 ## 🔹 Project Status
 
@@ -22,7 +21,7 @@
 
 ---
 
-## 🇧🇷 About the Project
+## 🔹 About the Project
 
 **NoierUi** is a Brazilian project focused mainly on **Minecraft Bedrock Edition**.
 
@@ -38,7 +37,7 @@ Understanding what you're building is essential.
 
 ---
 
-## 🌠 Origin
+## 🔹 inspirations
 
 NoierUi was born from a desire I had after seeing animated UIs like HorizonUI and BetmcUI.
 
@@ -48,7 +47,7 @@ This project proves that with patience, effort and consistency, you can build an
 
 ---
 
-## 🎯 Focus
+## 🔹 Focus
 
 - Clean AAA-style layout  
 - Structured grid-based alignment  
