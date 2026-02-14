@@ -9,8 +9,6 @@
   Modern, clean and animated UI for Minecraft Bedrock Edition
 </p>
 
-# 🌌 NoierUi
-
 Modern, clean and animated UI project for **Minecraft Bedrock Edition**.
 
 ---
