@@ -1,10 +1,6 @@
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-Bedrock-blue" />
-  <img src="https://img.shields.io/badge/Version-v26.0.4-blue" />
-  <img src="https://img.shields.io/badge/Status-In%20Development-yellow" />
-  <img src="https://img.shields.io/badge/Project-Brazilian-green" />
-  <img src="https://img.shields.io/badge/Made%20on-Mobile-purple" />
+  <img src="NoierUi.png" alt="NoierUi Banner" width="100%" />
 </p>
 
 ---
